@@ -11,10 +11,4 @@
         color: #2c3e50;
         margin-top: 60px;
     }
-    * {
-        padding: 0;
-        margin: 0;
-        list-style: none;
-        box-sizing: border-box;
-    }
 </style>
